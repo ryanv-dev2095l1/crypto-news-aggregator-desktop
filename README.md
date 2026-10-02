@@ -43,4 +43,4 @@ python aggregator.py clear
 
 You can tweak the scoring weights directly inside `aggregator.py` in the `KEYWORDS` dictionary.
 
-<!-- checked: 2026-10-01 -->
+<!-- checked: 2026-10-02 -->
